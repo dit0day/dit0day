@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dit0day
+- 👋 Hi, dit0day is here!
 - 👀 I’m Network Security Enthusiast
 - 🌱 I’m currently learning in More Training Experience
 - 💞️ I’m looking to collaborate on Github
